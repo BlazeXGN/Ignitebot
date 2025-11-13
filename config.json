@@ -1,0 +1,11 @@
+{
+    "welcomeChannelId": "1435141197625819166",
+    "verifyChannelId": "1436559802544427151",
+    "roleMessageId": "",
+    "emberRoleId": "1435300591000752268",
+    "kindledRoleId": "1435286676573393000",
+    "welcomeDM": {
+        "title": "Welcome to Ignite: Primal Reign!",
+        "description": "Survive. Hunt. Evolve. \n\nRead the rules in #rules and verify in #verify to become Kindled."
+    }
+}

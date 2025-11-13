@@ -1,0 +1,5 @@
+{
+  "Spino": { "class": "carnivore", "price": 3000, "templateSurvival": "Spino.json" },
+  "RexJuvS": { "class": "carnivore", "price": 3000, "templateSurvival": "RexJuv.json" },
+  "sandbox": {}
+}

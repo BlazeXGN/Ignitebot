@@ -1,0 +1,42 @@
+{
+"categories": [
+    {
+    "title": "🔥 Choose Your Path",
+    "description": "Select your survivor type:",
+    "roles": [
+        { "emoji": "🦖", "roleId": "1436585588886208595", "label": "Carnivore Survivors" },
+        { "emoji": "🌿", "roleId": "1436585266260217877", "label": "Herbivore Wanderers" },
+        { "emoji": "🪓", "roleId": "1436585848320819332", "label": "Hunters (PvP)" },
+        { "emoji": "🌲", "roleId": "1436586045205516431", "label": "Foragers (PvE)" }
+    ]
+    },
+    {
+    "title": "🌍 Country / Region",
+    "description": "React to assign your region:",
+    "roles": [
+        { "emoji": "🇺🇸", "roleId": "1436589111229157456", "label": "USA" },
+        { "emoji": "🇫🇷", "roleId": "1436589696506662923", "label": "France" },
+        { "emoji": "🇬🇧", "roleId": "1436589807215317104", "label": "UK" },
+        { "emoji": "🌐", "roleId": "1436589976677646346", "label": "EU / Other" }
+    ]
+    },
+    {
+    "title": "🎂 Age Group",
+    "description": "React to assign your age group:",
+    "roles": [
+        { "emoji": "🟢", "label": "14-16", "roleId": "1436590447354187836" },
+        { "emoji": "🔵", "label": "17-24", "roleId": "1436590516513935391" },
+        { "emoji": "🟣", "label": "25+", "roleId": "1436590614220374077" }
+    ]
+    },
+    {
+    "title": "🍁 18+ Stoner Area",
+    "description": "React to gain access to the 18+ stoner lounge:",
+    "roles": [
+        { "emoji": "🔥", "roleId": "1436591317617610752", "label": "18+ Stoner Area" }
+    ]
+    }
+]
+}
+
+
